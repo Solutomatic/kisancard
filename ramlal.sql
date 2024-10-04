@@ -247,7 +247,7 @@ CREATE TABLE `settings` (
 --
 
 INSERT INTO `settings` (`Id`, `SiteName`, `Logo`, `Title`, `PoweredBy`, `Footer`, `Domainname`, `BitesReg`, `admin_email`, `active`) VALUES
-(1, 'Elite Techno Group', 'img/logo.png', 'Elite Techno Group', 'CesPL', 'Elite Techno Group', 'http://localhost/manishji/certificate-genration/ramlal/', 31251, 'pankaj@compusysesolutions.com', 1);
+(1, 'Elite Techno Group', 'img/logo.png', 'Elite Techno Group', 'CesPL', 'Elite Techno Group', 'https://kisanmembercard.netlify.app/manishji/certificate-genration/ramlal/', 31251, 'pankaj@compusysesolutions.com', 1);
 
 -- --------------------------------------------------------
 

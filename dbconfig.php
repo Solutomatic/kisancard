@@ -2,7 +2,7 @@
 
 class Database
 {   
-    private $host = "localhost";
+    private $host = "https://kisanmembercard.netlify.app";
     private $db_name = "ramlal";
     private $username = "root";
     private $password = "";
